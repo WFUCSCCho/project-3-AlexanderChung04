@@ -98,15 +98,28 @@ it to this repository.
 Bubble Sort, Merge Sort, Quick Sort, and Heap Sort running time (already sorted):
 ![image](https://github.com/user-attachments/assets/76f103c8-8c02-4bec-9966-99568f2effb6)
 
+![Sbmqh](https://github.com/user-attachments/assets/b90392da-924d-4822-b634-6ce19406fccb)
+
+
 Bubble Sort, Merge Sort, Quick Sort, and Heap Sort running time (shuffled):
+
+![SHbmqh](https://github.com/user-attachments/assets/3c130548-aefc-44c6-ad7f-d5711ea751a2)
 
 Bubble Sort, Merge Sort, Quick Sort, and Heap Sort running time (reversed):
 
+![Rbmqh](https://github.com/user-attachments/assets/14058dc6-f36d-4f07-856e-9d457c672f81)
+
 Bubble Sort and Odd-Even Transposition Sort comparison (already sorted):
+
+![BTS](https://github.com/user-attachments/assets/ac318c2a-62e0-4b7e-90eb-2de655781a35)
 
 Bubble Sort and Odd-Even Transposition Sort comparison (shuffled):
 
+![BTSH](https://github.com/user-attachments/assets/f44118ee-a346-4083-891e-2d02c913ad23)
+
 Bubble Sort and Odd-Even Transposition Sort comparison (reversed):
+
+![BTR](https://github.com/user-attachments/assets/a37d7881-a1dc-49cc-8762-f96d357bfc3f)
 
 ## Submission:
 
